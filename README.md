@@ -1,30 +1,14 @@
 # reading-notes
 
+## My name's Ahmad Omar Shalein, 24 years, studied Electrical Engineering in BAU.
+https://github.com/AhmadShalein
 
 
-# This is Growth Mindest
-
-
-
-## What's growth mindest?
-
-
-
-_In my opinion, growth mindset is people believe that their most basic abilities can be developed through dedication and hard work, brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment!_
-
-
-
-**How to keep yourself in a growth mindset?**
-
-
-
-* Hard Work.
-* Effort.
-* Persistence. (are all the key to success).
-
-
-
-[growth mindset](https://www.renaissance.com/edwords/growth-mindset/#:~:text=Growth%20Mindset%3A%20%E2%80%9CIn%20a%20growth,Dweck%2C%202015)
-
-
-🙂
+| Assignment | Link               |
+|------------|--------------------|
+| read01     | [class01](class01) |
+| read02     | [class02](class02) |
+| read03     | [class03](class03) |
+| read04     | [class04](class04) |
+| read05     | [class05](class05) |
+| read06     | [class06](class06) |
