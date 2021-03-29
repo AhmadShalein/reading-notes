@@ -1,0 +1,2 @@
+This reading session about colors in designing web pages. Colors in CSS can be specified by the following methods, such as RGB values (red, green, blue), Hexadecimal codes (#RRGGBB) & color names (red, green, blue .. etc), colors can really bring your pages to life.
+In addition to the Javascript function, a Javascript function is a block of code designed to perform a particular task & is defined with the function keyword, the parameters are listed inside the parentheses. Also, functions can take parameters information required to do their job and may return a value.
