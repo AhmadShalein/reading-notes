@@ -17,7 +17,7 @@ You can contact with me here --> https://www.linkedin.com/in/ahmad-shalein-82608
 
 ### Code 201:
 
-| Assignment | Link               |
-|------------|--------------------|
-| read01     | [class01](read001) |
-| read02     | [class02](read002) |
+| Assignment  | Link               |
+|-------------|--------------------|
+| read001     | [Introductory HTML and JavaScript](read001) |
+| read002     | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](read002) |
