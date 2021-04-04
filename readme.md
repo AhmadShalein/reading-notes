@@ -4,7 +4,7 @@
 
 ### You can contact with me here --> https://www.linkedin.com/in/ahmad-shalein-826088194/
 
-### Code 101:
+### Code 101 & 102:
 
 | Assignment | Link              |
 |------------|-------------------|
