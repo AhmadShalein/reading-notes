@@ -1,4 +1,4 @@
-# Read005: Images, Color, Text:
+# Read005: HTML Images; CSS Color & Text:
 
 - <img> element is used to add an image to your page. It must contain these three attributes: src, alt, title.
 
