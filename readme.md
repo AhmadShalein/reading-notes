@@ -23,3 +23,5 @@
 | Read002     | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](read002) |
 | Read003     | [HTML Lists, Control Flow with JS, and the CSS Box Model](read003) |
 | Read004     | [HTML Links, CSS Layout, JS Functions](read004) |
+| Read005     | [HTML Images; CSS Color & Text](read005) |
+
