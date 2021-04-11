@@ -24,4 +24,7 @@
 | Read003     | [HTML Lists, Control Flow with JS, and the CSS Box Model](read003) |
 | Read004     | [HTML Links, CSS Layout, JS Functions](read004) |
 | Read005     | [HTML Images; CSS Color & Text](read005) |
+| Read006     | [Problem Domain, Objects, and the DOM](read006) |
+| Read007     | [Object-Oriented Programming, HTML Tables](read007) |
+
 
