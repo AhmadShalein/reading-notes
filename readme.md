@@ -26,5 +26,7 @@
 | Read005     | [HTML Images; CSS Color & Text](read005) |
 | Read006     | [Problem Domain, Objects, and the DOM](read006) |
 | Read007     | [Object-Oriented Programming, HTML Tables](read007) |
+| Read008     | [More CSS Layout](read008) |
+
 
 
