@@ -28,6 +28,8 @@
 | Read007     | [Object-Oriented Programming, HTML Tables](read007) |
 | Read008     | [More CSS Layout](read008) |
 | Read009     | [Forms and JS Events](read009) |
+| Read010     | [JS Debugging](read010) |
+
 
 
 
