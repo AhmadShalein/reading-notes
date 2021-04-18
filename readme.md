@@ -30,6 +30,8 @@
 | Read009     | [Forms and JS Events](read009) |
 | Read010     | [JS Debugging](read010) |
 | Read011     | [Assorted Topics](read011) |
+| Read012     | [Docs for the HTML canvas Element & Chart.js](read012) |
+
 
 
 
