@@ -31,6 +31,9 @@
 | Read010     | [JS Debugging](read010) |
 | Read011     | [Assorted Topics](read011) |
 | Read012     | [Docs for the HTML canvas Element & Chart.js](read012) |
+| Read013     | [Local Storage](read013) |
+| Read014     | [CSS Transforms, Transitions, and Animations](read014) |
+
 
 
 
