@@ -4,18 +4,20 @@
 
 ### You can contact with me here --> https://www.linkedin.com/in/ahmad-shalein/
 
-### Code 101 & 102:
+---------------------------------------------------------------------------------------------
+
+### Code 102 - Intro to Software Development:
 
 | Assignment | Link              |
 |------------|-------------------|
-| Read01     | [class01](read01) |
-| Read02     | [class02](read02) |
-| Read03     | [class03](read03) |
-| Read04     | [class04](read04) |
-| Read05     | [class05](read05) |
-| Read06     | [class06](read06) |
+| Read01     | [The Coder's Computer](read01) |
+| Read02     | [Learning Markdown](read02) |
+| Read03     | [Structure web pages with HTML](read03) |
+| Read04     | [Programming with JavaScript](read04) |
+| Read05     | [Operators and Loops](read05) |
+| Read06     | [Design web pages with CSS](read06) |
 
-### Code 201:
+### Code 201 - Foundations of Software Development:
 
 | Assignment  | Link               |
 |-------------|--------------------|
@@ -35,6 +37,13 @@
 | Read014a     | [CSS Transforms, Transitions, and Animations](read014a) |
 | Read014b     | [What Google Learned About Teams](read014b) |
 
+### Code 301 - Intermediate Software Development:
+
+| Assignment  | Link               |
+|-------------|--------------------|
+| Read-01     | [Introduction to React and Components](read-01) |
+
+### Code 401 - Advanced Software Development:
 
 
 
