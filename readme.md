@@ -41,7 +41,7 @@
 
 | Assignment  | Link               |
 |-------------|--------------------|
-| Read-01     | [Introduction to React and Components](read-01) |
+| Read-01     | [SMACSS and Responsive Web Design](read-01) |
 
 ### Code 401 - Advanced Software Development:
 
