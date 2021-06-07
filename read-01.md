@@ -1,36 +1,33 @@
-# Responsive Web Design
+# Read 01: Introduction to React and Components:
 
-**Responsive web design**: is the practice of building a website suitable to work on every device and every screen size, no matter how large or small, mobile or desktop.
+## Component Based Architecture:
 
-## Responsive vs. Adaptive vs. Mobile:
+### What are the characteristics of a component?
 
-**Responsive** generally means to react quickly and positively to any change. **Adaptive** means to be easily modified for a new purpose or situation, such as change. **Mobile** generally means to build a separate website commonly on a new domain solely for mobile users.
+- Reusability.
+- Replaceable.
+- Not context specific.
+- Extensible.
+- Encapsulated.
+- Independent.
 
-### Responsive web design is broken down into three main components, which are:
+### What are the advantages of using component based architecture?
 
-**1. Flexible Layouts**
+- Easy of deployment − As new compatible versions become available, it is easier to replace existing versions with no impact on the other components or the system as a whole.
 
-- It is the practice of building the layout of a website with a flexible grid, using relative length units (mostly percentage or em), that are capable of dynamically resizing to any width.
+- Reduced cost − The use of third-party components allows you to spread the cost of development and maintenance.
 
-**Relative Viewport Lengths**
+- Easy of development − Components implement well-known interfaces to provide defined functionality, allowing development without impacting other parts of the system.
 
-- vw: viewports width.
-- vh: viewports height.
-- vmin: Minimum of the viewport’s height and width.
-- vmax: Maximum of the viewport’s height and width.
+- Reusable − The use of reusable components means that they can be used to spread the development and maintenance cost across several applications or systems.
 
-**target ÷ context = result * 100%**
+- Modification of technical complexity − A component modifies the complexity through the use of a component container and its services.
 
-**2. Media Queries**
+- Reliability − The overall system reliability increases since the reliability of each individual component enhances the reliability of the whole system via reuse.
 
-**Initializing Media Queries**
+- System maintenance and evolution − Easy to change and update the implementation without affecting the rest of the system.
 
-1. using the @media rule inside of an existing style sheet. (recommended)
-2. importing a new style sheet using the @import rule.
-3. linking to a separate style sheet from within the HTML document.
+- Independent − Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future software development.
 
-**Media Queries:** all, screen(default), print, tv, 3d-glasses, and braille. We can use logical operators with them: and, not, and only.
-
-**3. Flexible Media**
-
-Embedded media should have a parent element with a relative position, height = 0, and width = 100%. And the embedded media **<iframe>** should have absolute position, 100% height and 100% width.
+### Things I want to know more about:
+- What I can do between components and how to manipulate passing data between them.
