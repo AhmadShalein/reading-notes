@@ -43,6 +43,7 @@
 |-------------|--------------------|
 | Read-01     | [Introduction to React and Components](read-01) |
 | Read-02     | [State and Props](read-02) |
+| Read-03     | [Passing Functions as Props](read-03) |
 
 ### Code 401 - Advanced Software Development:
 
