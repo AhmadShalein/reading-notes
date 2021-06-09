@@ -38,7 +38,7 @@ console.log(false);
 
 ans:
 
-(x === y) ? >='true':'false';
+(x === y) ? console.log(true) : console.log(false)
 
 ---------------------------------------------------------------------
 
