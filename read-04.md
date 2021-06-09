@@ -24,11 +24,19 @@
 
 **Rewrite the following statement using a ternary statement:**
 
+ex:
+
 if(x===y){
+
 console.log(true);
+
 } else {
+
 console.log(false);
+
 }
+
+ans:
 
 (x === y) ? >='true':'false';
 
