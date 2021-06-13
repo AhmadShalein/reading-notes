@@ -3,7 +3,7 @@
 ### Who am I ?
 **My name is Ahmad Omar Shalein, 24 years, A holder a Bachelor Degree in Electrical Engineering from BAU. Also, I was enrolled in a six intensive months program for Advanced Software Development by LTUC-Abdul Aziz Al Ghurair School of Advanced Computing.**
 
-### You can contact with me here --> https://www.linkedin.com/in/ahmad-shalein/
+### You can contact with me here --> [LinkedIn profile](https://www.linkedin.com/in/ahmad-shalein/)
 
 ---------------------------------------------------------------------------------------------
 
