@@ -1,6 +1,7 @@
 # Reading-Notes:
 
-## My name is Ahmad Omar Shalein, 24 years, A holder a Bachelor Degree in Electrical Engineering from BAU. Also, I was enrolled in a six intensive months program for Advanced Software Development by LTUC-Abdul Aziz Al Ghurair School of Advanced Computing.
+### Who am I ?
+My name is Ahmad Omar Shalein, 24 years, A holder a Bachelor Degree in Electrical Engineering from BAU. Also, I was enrolled in a six intensive months program for Advanced Software Development by LTUC-Abdul Aziz Al Ghurair School of Advanced Computing.
 
 ### You can contact with me here --> https://www.linkedin.com/in/ahmad-shalein/
 
@@ -46,6 +47,7 @@
 | Read-03     | [Passing Functions as Props](read-03) |
 | Read-04     | [React and Forms](read-04) |
 | Read-05     | [Putting it all together](read-05) |
+| Read-06     | [NODE.JS](read-06) |
 
 ### Code 401 - Advanced Software Development:
 
