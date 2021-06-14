@@ -48,6 +48,7 @@
 | Read-04     | [React and Forms](read-04) |
 | Read-05     | [Putting it all together](read-05) |
 | Read-06     | [NODE.JS](read-06) |
+| Read-07     | [REST](read-07) |
 
 ### Code 401 - Advanced Software Development:
 
