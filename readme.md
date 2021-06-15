@@ -49,6 +49,7 @@
 | Read-05     | [Putting it all together](read-05) |
 | Read-06     | [NODE.JS](read-06) |
 | Read-07     | [REST](read-07) |
+| Read-08     | [APIs](read-08) |
 
 ### Code 401 - Advanced Software Development:
 
