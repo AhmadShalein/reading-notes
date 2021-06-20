@@ -52,6 +52,7 @@
 | Read-08     | [APIs](read-08) |
 | Read-09     | [FUNCTIONAL PROGRAMMING](read-09) |
 | Read-10     | [In memory storage](read-10) |
+| Read-11     | [Authentication](Read-11) |
 
 ### Code 401 - Advanced Software Development:
 
