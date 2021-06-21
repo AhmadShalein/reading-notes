@@ -53,6 +53,7 @@
 | Read-09     | [FUNCTIONAL PROGRAMMING](read-09) |
 | Read-10     | [In memory storage](read-10) |
 | Read-11     | [Authentication](Read-11) |
+| Read-12     | [Mongo and Mongoose](Read-12) |
 
 ### Code 401 - Advanced Software Development:
 
