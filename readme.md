@@ -52,8 +52,9 @@
 | Read-08     | [APIs](read-08) |
 | Read-09     | [FUNCTIONAL PROGRAMMING](read-09) |
 | Read-10     | [In memory storage](read-10) |
-| Read-11     | [Authentication](Read-11) |
-| Read-12     | [Mongo and Mongoose](Read-12) |
+| Read-11     | [Authentication](read-11) |
+| Read-12     | [Mongo and Mongoose](read-12) |
+| Read-13     | [CRUD](read-13)
 
 ### Code 401 - Advanced Software Development:
 
