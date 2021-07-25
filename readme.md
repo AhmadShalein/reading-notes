@@ -1,7 +1,7 @@
 # Reading-Notes:
 
 ### Who am I ?
-**My name is Ahmad Omar Shalein, 24 years, A holder a Bachelor Degree in Electrical Engineering from BAU. Also, I was enrolled in a six intensive months program for Advanced Software Development by LTUC-Abdul Aziz Al Ghurair School of Advanced Computing.**
+**My name is Ahmad Omar Shalein, 25 years, A holder a Bachelor Degree in Electrical Engineering from BAU. Also, I was enrolled in a six intensive months program for Advanced Software Development by LTUC-Abdul Aziz Al Ghurair School of Advanced Computing.**
 
 ### You can contact with me here --> [LinkedIn profile](https://www.linkedin.com/in/ahmad-shalein/)
 
@@ -54,9 +54,13 @@
 | Read-10     | [In memory storage](read-10) |
 | Read-11     | [Authentication](read-11) |
 | Read-12     | [Mongo and Mongoose](read-12) |
-| Read-13     | [CRUD](read-13)
+| Read-13     | [CRUD](read-13) |
 
 ### Code 401 - Advanced Software Development:
+
+| Assignment  | Link               |
+|-------------|--------------------|
+| Read-001     | [Class 01](read-001) |
 
 
 
