@@ -7,6 +7,7 @@ Unit tests are some pieces of code to exercise the input, the output and the beh
 The API is pretty straightforward and your work was almost done. But with TDD we need to think about tests first.
 
 - unit tests are pieces of code to exercise input, output, and behavior of code.
+
 ```
 - test-driven development is a way to write tests first
 
@@ -28,6 +29,7 @@ The API is pretty straightforward and your work was almost done. But with TDD we
 **What is Recursion?**
 
 - The process in which a function calls itself directly or indirectly is called recursion and the corresponding function is called as recursive function. Using recursive algorithm, certain problems can be solved quite easily. Examples of such problems are Towers of Hanoi (TOH), Inorder/Preorder/Postorder Tree Traversals, DFS of Graph, etc.
+
 ```
  f(n) = 1 + 2 + 3..... + n
  approach 2 - Recursive adding
@@ -35,6 +37,7 @@ The API is pretty straightforward and your work was almost done. But with TDD we
  f(n) = 1     n = 1
  f(n) = n + f(n-1) n>1
 ```
+
 **What is base condition in recursion?**
 
 - In the recursive program, the solution to the base case is provided and the solution of the bigger problem is expressed in terms of smaller problems.
