@@ -61,6 +61,8 @@
 | Assignment  | Link               |
 |-------------|--------------------|
 | Read-001     | [Class 01](read-001) |
+| Read-002     | [Testing and Modules](read-002) |
+
 
 
 
