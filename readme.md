@@ -62,6 +62,7 @@
 |-------------|--------------------|
 | Read-001     | [Class 01](read-001) |
 | Read-002     | [Testing and Modules](read-002) |
+| Read-003     | [FileIO & Exceptions](read-003) |
 
 
 
