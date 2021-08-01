@@ -65,6 +65,8 @@
 | Read-003     | [FileIO & Exceptions](read-003) |
 | Read-004     | [Topic](read-004) |
 | Read-005     | [Linked Lists](read-005) |
+| Read-006     | [Game of Greed 1](read-006) |
+
 
 
 
