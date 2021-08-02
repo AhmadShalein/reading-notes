@@ -66,6 +66,7 @@
 | Read-004     | [Topic](read-004) |
 | Read-005     | [Linked Lists](read-005) |
 | Read-006     | [Game of Greed 1](read-006) |
+| Read-007     | [Game of Greed 2](read-007) |
 
 
 
