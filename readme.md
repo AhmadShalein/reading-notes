@@ -69,6 +69,8 @@
 | Read-007     | [Game of Greed 2](read-007) |
 | Read-008     | [Game of Greed 3](read-008) |
 | Read-009     | [Game of Greed 4](read-009) |
+| Read-010     | [Stacks and Queues](read-010) |
+
 
 
 
