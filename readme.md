@@ -71,6 +71,7 @@
 | Read-009     | [Game of Greed 4](read-009) |
 | Read-010     | [Stacks and Queues](read-010) |
 | Read-011     | [Data Analysis](read-011) |
+| Read-012     | [Pandas](read-012) |
 
 
 
