@@ -5,6 +5,7 @@
 * **Pandas** is an open source Python package that is most widely used for data science/data analysis and machine learning tasks. It is built on top of another package named Numpy, which provides support for multi-dimensional arrays. As one of the most popular data wrangling packages, Pandas works well with many other data science modules inside the Python ecosystem, and is typically included in every Python distribution, from those that come with your operating system to commercial vendor distributions like ActiveState’s ActivePython.
 
 * Customarily, we import as follows:
+
 ```
 In [1]: import numpy as np
 
@@ -13,6 +14,7 @@ In [2]: import pandas as pd
 
 * Object creation:
   * Creating a Series by passing a list of values, letting pandas create a default integer index:
+
 ```
 In [3]: s = pd.Series([1, 3, 5, np.nan, 6, 8])
 
@@ -28,6 +30,7 @@ dtype: float64
 ```
 
   * Creating a DataFrame by passing a NumPy array, with a datetime index and labeled columns:
+
 ```
 In [5]: dates = pd.date_range("20130101", periods=6)
 
@@ -52,6 +55,7 @@ Out[8]:
 
 * Viewing data:
   * Here is how to view the top and bottom rows of the frame:
+
 ```
 In [13]: df.head()
 Out[13]: 
@@ -71,6 +75,7 @@ Out[14]:
 ```
 
   * Display the index, columns:
+
 ```
 In [15]: df.index
 Out[15]: 
