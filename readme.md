@@ -72,6 +72,7 @@
 | Read-010     | [Stacks and Queues](read-010) |
 | Read-011     | [Data Analysis](read-011) |
 | Read-012     | [Pandas](read-012) |
+| Read-013     | [Linear Regressions](read-013) |
 
 
 
