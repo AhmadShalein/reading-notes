@@ -73,6 +73,8 @@
 | Read-011     | [Data Analysis](read-011) |
 | Read-012     | [Pandas](read-012) |
 | Read-013     | [Linear Regressions](read-013) |
+| Read-014     | [Data Visualization](read-014) |
+
 
 
 
