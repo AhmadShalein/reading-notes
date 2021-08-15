@@ -75,6 +75,8 @@
 | Read-013     | [Linear Regressions](read-013) |
 | Read-014     | [Data Visualization](read-014) |
 | Read-015     | [Trees](read-015) |
+| Read-016     | [Machine Learning Intro](read-016) |
+
 
 
 
