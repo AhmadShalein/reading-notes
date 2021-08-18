@@ -78,6 +78,7 @@
 | Read-016     | [Machine Learning Intro](read-016) |
 | Read-017     | [Web Scraping](read-017) |
 | Read-018     | [Cryptography](read-018) |
+| Read-019     | [Automation](read-019) |
 
 
 
