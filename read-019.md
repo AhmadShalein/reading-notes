@@ -16,8 +16,6 @@
 
 * [a-zA-Z0-9] - Matches any letter from (a to z) or (A to Z) or (0 to 9).
 
-![Regex_Patterns](https://performiq.com/kb/images/Regex_Patterns.gif)
-
 ----------------------------
 
 ## shutil:
