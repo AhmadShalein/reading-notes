@@ -80,7 +80,7 @@
 | Read-018     | [Cryptography](read-018) |
 | Read-019     | [Automation](read-019) |
 | Read-026     | [Intro to Django](read-026) |
-
+| Read-027     | [Django Models](read-027) |
 
 
 
