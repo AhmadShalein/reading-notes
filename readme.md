@@ -81,6 +81,8 @@
 | Read-019     | [Automation](read-019) |
 | Read-026     | [Intro to Django](read-026) |
 | Read-027     | [Django Models](read-027) |
+| Read-028     | [Django CRUD and Forms](read-028) |
+
 
 
 
