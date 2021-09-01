@@ -82,19 +82,4 @@
 | Read-026     | [Intro to Django](read-026) |
 | Read-027     | [Django Models](read-027) |
 | Read-028     | [Django CRUD and Forms](read-028) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Read-029     | [Django Custom User](read-029) |
