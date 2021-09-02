@@ -83,3 +83,4 @@
 | Read-027     | [Django Models](read-027) |
 | Read-028     | [Django CRUD and Forms](read-028) |
 | Read-029     | [Django Custom User](read-029) |
+| Read-030     | [Hash Tables](read-030) |
