@@ -86,3 +86,4 @@
 | Read-030     | [Hash Tables](read-030) |
 | Read-031     | [Django REST Framework & Docker](read-031) |
 | Read-032     | [Permissions & Postgresql](read-032) |
+| Read-033     | [Authentication & Production Server](read-033) |
