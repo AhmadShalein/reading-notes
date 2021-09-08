@@ -87,3 +87,5 @@
 | Read-031     | [Django REST Framework & Docker](read-031) |
 | Read-032     | [Permissions & Postgresql](read-032) |
 | Read-033     | [Authentication & Production Server](read-033) |
+| Read-034     | [API Deployment](read-034) |
+
