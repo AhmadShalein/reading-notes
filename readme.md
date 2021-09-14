@@ -90,4 +90,6 @@
 | Read-034     | [API Deployment](read-034) |
 | Read-036     | [DSA Review](read-036) |
 | Read-037     | [React 1](read-037) |
+| Read-038     | [React 2](read-038) |
+
 
