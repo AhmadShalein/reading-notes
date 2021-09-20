@@ -93,4 +93,5 @@
 | Read-038     | [React 2](read-038) |
 | Read-039     | [React 3](read-039) |
 | Read-041     | [React 4](read-041) |
+| Read-042     | [Pythonisms](read-042) |
 
